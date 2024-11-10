@@ -1,11 +1,17 @@
 # SpellMe: Interactive Spelling Game
 
 ## Motivation
-SpellMe is an educational game designed to make learning spelling fun and interactive for young learners. Created as a fun project using Generative AI technologies, this application demonstrates how modern web technologies and AI can be combined to create engaging educational experiences.
+SpellMe is an educational game designed to make learning spelling fun and interactive for young learners. 
+Created as a fun project in modern web technologies using Generative AI technologies.
 
-# Where's AI in the app ? 
-My personal take is that Generative AI doesn't have to be real time in applications like this. It can be used to build applications faster, learn new technologies on the go, generate content for application like text, translations, images and enhance the user experience.
-GenAI in the project is developer copilot (Used both OpenAI canvas and Cursor), Product manager copilot (OpenAI o1-preview), business analyst(words and image list for the game via OpenAI gpt-4o ) and operator copilot (Claude 3.5 Sonnet in the terminal via Cursor).
+# Where's AI / GenAI in the app ? 
+My personal take is that Generative AI doesn't have to be real time in every applications. It can be used to 
+- ✅ Build applications faster (Time to market)
+- ✅ Learn new technologies on the go (New skills, productivity)
+- ✅ Brainstorm on application ideas and use
+- ✅ Generate content for application like text, translations, images and enhance the user experience.
+
+I used GenAI in this project is developer copilot (Used both OpenAI canvas and Cursor), Product manager copilot (OpenAI o1-preview), business analyst(words and image list for the game via OpenAI gpt-4o ) and operator copilot (Claude 3.5 Sonnet in the terminal via Cursor).
 
 
 ## Features
