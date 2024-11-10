@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/spellme/static/css/main.94ad5b65.css",
+    "main.js": "/spellme/static/js/main.d9ba5d74.js",
+    "static/js/453.f131387e.chunk.js": "/spellme/static/js/453.f131387e.chunk.js",
+    "static/media/YUMMY.jpg": "/spellme/static/media/YUMMY.24ad4e730e46f5d6c6d6.jpg",
+    "static/media/DOG.jpg": "/spellme/static/media/DOG.072da59a45096b26fe5f.jpg",
+    "static/media/BALL.jpg": "/spellme/static/media/BALL.b3b1388a225f0eae51cf.jpg",
+    "static/media/BOOK.jpg": "/spellme/static/media/BOOK.967b00b83740691ba9b4.jpg",
+    "static/media/RUN.jpg": "/spellme/static/media/RUN.11f676ff8309bf0638cc.jpg",
+    "static/media/DOOR.jpg": "/spellme/static/media/DOOR.7db81eebe366c51b4771.jpg",
+    "static/media/CAR.jpg": "/spellme/static/media/CAR.f8b23350978557f545bf.jpg",
+    "static/media/NO.jpg": "/spellme/static/media/NO.4c29d8313790a490442c.jpg",
+    "static/media/placeholder.jpg": "/spellme/static/media/placeholder.b1076f84158e2635b3b6.jpg",
+    "static/media/YES.jpg": "/spellme/static/media/YES.841e036c5d5ca30fe31c.jpg",
+    "static/media/SKY.jpg": "/spellme/static/media/SKY.c4a2049521b7b5af94ef.jpg",
+    "static/media/SUN.jpg": "/spellme/static/media/SUN.458f6ff3952d143239d1.jpg",
+    "static/media/BAT.jpg": "/spellme/static/media/BAT.686814a9a18534232bd9.jpg",
+    "index.html": "/spellme/index.html",
+    "main.94ad5b65.css.map": "/spellme/static/css/main.94ad5b65.css.map",
+    "main.d9ba5d74.js.map": "/spellme/static/js/main.d9ba5d74.js.map",
+    "453.f131387e.chunk.js.map": "/spellme/static/js/453.f131387e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ad5b65.css",
+    "static/js/main.d9ba5d74.js"
+  ]
+}
