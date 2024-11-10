@@ -3,6 +3,11 @@
 ## Motivation
 SpellMe is an educational game designed to make learning spelling fun and interactive for young learners. Created as a fun project using Generative AI technologies, this application demonstrates how modern web technologies and AI can be combined to create engaging educational experiences.
 
+# Where's AI in the app ? 
+My personal take is that Generative AI doesn't have to be real time in applications like this. It can be used to build applications faster, learn new technologies on the go, generate content for application like text, translations, images and enhance the user experience.
+GenAI in the project is developer copilot (Used both OpenAI canvas and Cursor), Product manager copilot (OpenAI o1-preview), business analyst(words and image list for the game via OpenAI gpt-4o ) and operator copilot (Claude 3.5 Sonnet in the terminal via Cursor).
+
+
 ## Features
 - Interactive drag-and-drop interface
 - Visual and audio feedback
@@ -24,15 +29,20 @@ SpellMe is an educational game designed to make learning spelling fun and intera
 
 ## Roadmap
 
-### Phase 1: Core Features (Current)
+### Phase 0: Build out basic functionality (MVP)
+- ✅ Basic word spelling interface
+- ✅ Drag and drop functionality
+
+### Phase 1: Core Features (Release 1 MVP)
 - ✅ Basic word spelling interface
 - ✅ Drag and drop functionality
 - ✅ Keyboard support
 - ✅ Image hints
 - ✅ Sound effects
-- ✅ Next word navigation
+- ✅ Next word navigation with button
 
-### Phase 2: Enhanced Learning (Q2 2024)
+### Phase 2: Enhanced Learning (Release 2)
+-✅ Next word navigation with right arrow
 - [ ] Multiple difficulty levels
   - Easy (3-4 letters)
   - Medium (5-6 letters)
@@ -45,7 +55,7 @@ SpellMe is an educational game designed to make learning spelling fun and intera
 - [ ] Progress tracking
 - [ ] Achievement badges
 
-### Phase 3: User Experience (Q3 2024)
+### Phase 3: User Experience (Release 3)
 - [ ] User profiles
 - [ ] Progress saving
 - [ ] Customizable themes
@@ -53,7 +63,7 @@ SpellMe is an educational game designed to make learning spelling fun and intera
 - [ ] Mobile-responsive design
 - [ ] Offline support
 
-### Phase 4: Educational Integration (Q4 2024)
+### Phase 4: Educational Integration (Release 4)
 - [ ] Teacher dashboard
 - [ ] Custom word lists
 - [ ] Multiple languages support
@@ -61,7 +71,7 @@ SpellMe is an educational game designed to make learning spelling fun and intera
 - [ ] Parent/Teacher accounts
 - [ ] Class management
 
-### Phase 5: Social & Gamification (2025)
+### Phase 5: Social & Gamification (Release 5)
 - [ ] Multiplayer mode
 - [ ] Leaderboards
 - [ ] Social sharing
@@ -79,8 +89,20 @@ SpellMe is an educational game designed to make learning spelling fun and intera
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v14 or higher)
+- Node.js (v20 )
 - npm (Node Package Manager)
 
 ### Installation
 1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+
+### Deployment
+1. Build the application: `npm run build`
+2. Deploy to your GitHub Pages: `npm run deploy` (includes gh-pages package in package.json)
+
+### Thank yous!
+- LocalLLama Reddit community for the help and support
+- [React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd) for the drag and drop functionality
+- [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) for the audio effects
+
